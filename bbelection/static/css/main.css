@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(255,255,102);
+  font-family: 'Acme', sans-serif;
+  color: #333;
+  margin: 20px 30px;
+}
+
+.main_heading {
+  color: hotpink;
+}
+
+.secondary_heading {
+  color: #83C9F4;
+}
+
+#election_results {
+  list-style-type: none;
+}
+
+#election_results li {
+  margin: 15px 0;
+}
